@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">RMIT Apps</string>
+    <string name="logo_text">Welcome to RMIT Apps Market</string>
+    <string name="label_username">Enter ID:</string>
+    <string name="label_passwd">Enter Password:</string>
+    <string name="btn_login">Login</string>
+    <string name="label_signup">Don\'t have account?</string>
+    <string name="logo">New Account Registration\n</string>
+    <string name="label_fullname">Fullname:</string>
+    <string name="label_id">Enter ID:</string>
+    <string name="label_passwd_desc">Enter password here. Minimun 6 characters.</string>
+    <string name="btn_signup">Sign Up</string>
+    <string name="label_id_desc">Only characters and numbers only.</string>
+    <string name="btn_back">Back</string>
+    <string name="image_not_found">Image not found</string>
+    <string name="app_name_display">Application Name</string>
+    <string name="app_desc_display">Application Description</string>
+    <string name="app_desc">Insert Application Description Here</string>
+    <string name="install_button_text">Install</string>
+    <string name="back_button_text">Back</string>
+
+    <color name="white">#FFFFFF</color>
+    <color name="red">#CC0000</color>
+    <color name="blue">#0099CC</color>
+
+</resources>
